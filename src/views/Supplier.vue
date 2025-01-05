@@ -1,6 +1,5 @@
 <template>
   <div>
-    <!-- http://localhost:8080/manager才能看到主界面 -->
 
     <div style="margin: 10px 0">
       <el-input

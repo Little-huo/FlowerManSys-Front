@@ -1,6 +1,5 @@
 <template>
   <div>
-    <!-- http://localhost:8080/manager才能看到主界面 -->
 
     <el-row :gutter="20">
       <el-col :span="4" :xs="24">

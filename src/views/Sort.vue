@@ -1,7 +1,6 @@
 <template>
   <div>
-      <!-- http://localhost:8080/manager才能看到主界面 -->
-          
+
 
       <div style="margin:10px 0">
         <el-input  type="text" suffix-icon="el-icon-search" style="width:200px" placeholder="请输入名称" v-model="sortname"></el-input>
